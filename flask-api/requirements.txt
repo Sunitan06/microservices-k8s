@@ -1,2 +1,2 @@
-Flask==2.2.5
-Flask-PyMongo==2.3.0
+Flask==3.0.0
+Flask-PyMongo==3.12.0
